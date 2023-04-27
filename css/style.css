@@ -528,7 +528,7 @@ mark,
 
 .img-fluid {
   max-width: 100%;
-  height: auto;
+  height: 400px;
 }
 
 .img-thumbnail {
@@ -9575,7 +9575,7 @@ h4, h5, h6 {
 .gallery-item {
   position: relative;
   overflow: hidden;
-  height: 200px;
+  height: 400px;
 }
 
 .product-img img,
